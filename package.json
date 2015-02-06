@@ -1,0 +1,19 @@
+{
+  "name": "C9Ejercicios",
+  "version": "0.0.0",
+  "description": "Proyecto de node con C9.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony $(which node) test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mongit/C9Ejercicios.git"
+  },
+  "author": "Monse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mongit/C9Ejercicios/issues"
+  },
+  "homepage": "https://github.com/Mongit/C9Ejercicios"
+}
