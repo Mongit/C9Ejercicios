@@ -4,7 +4,7 @@
   "description": "Proyecto de node con C9.io",
   "main": "index.js",
   "scripts": {
-    "test": "node --harmony $(which node) test/"
+    "test": "node --harmony $(which nodeunit) test/"
   },
   "repository": {
     "type": "git",
