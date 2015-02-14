@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mongit/C9Ejercicios/issues"
   },
-  "homepage": "https://github.com/Mongit/C9Ejercicios"
+  "homepage": "https://github.com/Mongit/C9Ejercicios",
+  "dependencies": {
+    "nodeunit": "^0.9.0"
+  }
 }
